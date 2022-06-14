@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there PeterJaq or you can call me 牛肉咖喱饭 in Chinese 👋
+
+- 🔭 I’m currently working on SAIC MOTOR
+- 🌱 I’m currently learning Autonomous driving technology
 
 <!--
 **PeterJaq/PeterJaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on SAIC MOTOR
-- 🌱 I’m currently learning Autonomous driving technology
 -->
 
 
