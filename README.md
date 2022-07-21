@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=peterjaq&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="my github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterjaq&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=PeterJaq/Awesome-Autonomous-Driving&type=Date)](https://star-history.com/#PeterJaq/Awesome-Autonomous-Driving&Date)
